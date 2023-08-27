@@ -14,4 +14,4 @@ app.set("view engine", "ejs");
 app.set("views", "./view"); // view folder
 
 app.listen(5000);
-console.log("app is running on port 1111");
+console.log("app is running on port 5000");
